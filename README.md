@@ -1,11 +1,11 @@
-## Booking Site
+# Booking Site
 Welcome to the Booking Site project! This application allows users to search for and book flights, providing a seamless experience for managing travel plans.
 
 ### Features
 - **Flight Search**: Users can search for available flights based on their travel preferences.
 - **User Authentication**: Secure user registration and login functionalities to manage bookings.
 - **Booking Management**: Users can view and manage their flight bookings.
-- 
+  
 ### Technologies Used
 - **Backend**: Python with Django framework.
 - **Frontend**: HTML for templating.
@@ -23,9 +23,8 @@ Navigate to the project directory:
 
 ```bash
 cd booking-site
-Install dependencies:
 ```
-
+Install dependencies:
 Ensure you have Pipenv installed. Then, run:
 
 ```bash
